@@ -1,0 +1,21 @@
+body {
+    background-color: #131E2F;
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    width: 262px;
+    height: 350px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
